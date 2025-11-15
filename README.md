@@ -2,7 +2,7 @@
 
 **`TI Student`**
 
-Me chamo Matheus Henrique Marchioretto Lopes, tenho 18 anos e conclui o ensino médio no Sesi, com o curso técnico de desensvolvimento de sistemas do SENAI. Atualmente estou estudando com foco em passar na Unifae ou Fatec, para realizar cursos para aumentar minha bagagem no assunto.
+Me chamo Matheus Henrique Marchioretto Lopes, tenho 18 anos e conclui o ensino médio no Sesi, com o curso técnico de desenvolvimento de sistemas do SENAI. Atualmente estou estudando com foco em passar na Unifae ou Fatec, para realizar cursos para aumentar minha bagagem no assunto.
 
 <p align="left">
     <a href="https://github.com/MatheusLopes451?tab=followers">
